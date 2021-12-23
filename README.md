@@ -24,5 +24,5 @@ I am a full-stack developer with an emphasis on object-oriented programming.
 
 #Work & Videos
 <a href="https://www.youtube.com/watch?v=yz29TOuqG9I&t=7s
-" target="_blank"><img src="http://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg" 
+" target="_blank"><img src="https://www.youtube.com/watch?v=yz29TOuqG9I&t=7s" 
 alt="kevin lutz rails migrations video" width="240" height="180" border="10" /></a>
