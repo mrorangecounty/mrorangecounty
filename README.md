@@ -2,7 +2,7 @@
 
 Skills: Ruby on Rails / React / JavaScript / SQL
 
-🔭 I’m currently working on a real estate lead capture website. 
+🔭 I’m currently working on a real estate lead capture website. </br>
 🌱 I’m currently learning Algos & Data Structures 
 💬 Ask me about . . . My world travels! 
 📫 How to reach me: kevinlutz@gmail.com 
