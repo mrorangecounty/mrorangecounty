@@ -23,4 +23,6 @@ I am a full-stack developer with an emphasis on object-oriented programming.
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/kevinjameslutz/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/mrorangecounty/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/watch?v=yz29TOuqG9I&t=1s)  
 
 #Work & Videos
-<img src="https://www.youtube.com/watch?v=yz29TOuqG9I&t=7s" width="256"/>
+<a href="https://www.youtube.com/watch?v=yz29TOuqG9I&t=7s
+" target="_blank"><img src="http://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg" 
+alt="kevin lutz rails migrations video" width="240" height="180" border="10" /></a>
