@@ -3,10 +3,12 @@
 # Hello & Welcome!
 My name is Kevin Lutz and I am a recent graduate of The Flatiron School.
 I am a full-stack developer with an emphasis on object-oriented programming.
-My strengths are React, Ruby on Rails, JavaScript, SQL, and Vim.
 
-# Skills
-Ruby on Rails / React / JavaScript / SQL
+# Skills & Strengths
+💎 Ruby on Rails </br>
+⚛️ React </br>
+👨‍💻 JavaScript </br>
+💾 SQL </br>
 ⌨️ Vim
 
 💻 I’m currently working on a real estate lead capture website. </br>
