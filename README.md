@@ -1,4 +1,4 @@
-![Github Welcome Banner](https://user-images.githubusercontent.com/29030980/147282539-6eff5fc3-9927-4959-b467-ac64c506d3b7.png)
+![Github Welcome Banner](https://user-images.githubusercontent.com/29030980/147282704-bf832b90-ffc1-4b0f-8649-c35afff7e017.png)
 
 # Hello & Welcome
 My name is Kevin Lutz and I am a recent graduate of The Flatiron School. </br>
