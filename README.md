@@ -26,5 +26,11 @@ I am a full-stack developer with an emphasis on object-oriented programming.
 <a href="https://www.youtube.com/watch?v=yz29TOuqG9I&t=7s" target="_blank"><img src="https://user-images.githubusercontent.com/29030980/147279226-7ccc2c15-5b42-4811-9fdc-cebaac00153f.png" 
 alt="kevin lutz rails migrations video" width="240" height="180" border="0" /></a>
 
+<a href="https://www.youtube.com/watch?v=yz29TOuqG9I&t=7s" target="_blank"><img src="https://user-images.githubusercontent.com/29030980/147280593-b673a3c7-1f54-49c3-9cef-d6402aa85937.png" 
+alt="kevin lutz rails migrations video" width="240" height="180" border="0" /></a>
+
+<a href="https://www.youtube.com/watch?v=yz29TOuqG9I&t=7s" target="_blank"><img src="https://user-images.githubusercontent.com/29030980/147279226-7ccc2c15-5b42-4811-9fdc-cebaac00153f.png" 
+alt="kevin lutz rails migrations video" width="240" height="180" border="0" /></a>
+
 <a href="https://drive.google.com/file/d/1gQLV_B9w_xUGMS216LEZk7A_JnxGLmPp/view?usp=sharing" target="_blank"><img src="https://user-images.githubusercontent.com/29030980/147280464-d5466dc1-16f1-488e-aca5-6671a5a44a16.png" 
 alt="kevin lutz rails migrations video" width="240" height="180" border="0" /></a>
