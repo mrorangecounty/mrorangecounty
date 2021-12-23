@@ -1,7 +1,13 @@
 ![Github Welcome Banner](https://user-images.githubusercontent.com/29030980/147273699-37d3800a-7068-45c4-9a12-9cf2419b5ce6.png)
 
+# Hello & Welcome!
+My name is Kevin Lutz and I am a recent graduate of The Flatiron School.
+I am a full-stack developer with an emphasis on object-oriented programming.
+My strengths are React, Ruby on Rails, JavaScript, SQL, and Vim.
+
 # Skills
 Ruby on Rails / React / JavaScript / SQL
+⌨️ Vim
 
 💻 I’m currently working on a real estate lead capture website. </br>
 🌱 I’m currently learning Algos & Data Structures </br>
